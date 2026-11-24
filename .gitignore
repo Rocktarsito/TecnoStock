@@ -1,0 +1,16 @@
+
+# Configuración privada
+conexion.php
+.env
+.env.local
+tecnostock_private/
+
+# Respaldo con datos reales
+/sql/tecnostock.sql
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local del editor
+.vscode/
